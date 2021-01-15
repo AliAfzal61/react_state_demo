@@ -1,9 +1,10 @@
 import './App.css';
-import Test from "./test";
+import Room from "./room";
 import React from "react";
+
 function App() {
   return (
-   <Test></Test>
+   <Room></Room>
   );
 }
 
